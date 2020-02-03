@@ -34,12 +34,8 @@ PLACE THE BADGES HERE
 
 
 ##
+<h4 align="left"> Check out my website for demos and blog posts <a href="http://vajkturi.com/" target="_blank">VajkTuri</a>.</h4>
 
-<p align="center">
-  <a href="https://google.com/">
-    <img alt="Portfolio" title="Portfolio" src="img_placeholder.png" width="700">
-  </a>
-</p>
 
 
 
