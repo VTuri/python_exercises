@@ -25,9 +25,9 @@ PLACE THE BADGES HERE
 
 
 <p float="left">
-  <a href="http://https://trello.com/"><img src="https://github.com/VTuri/readme_template/blob/master/trello-logo.png" alt="Trello" width="100" height="100"></a> </t>
-<a href="https://www.linkedin.com/in/vajkturi/"><img src="https://github.com/VTuri/readme_template/blob/master/linkedin-logo.png" alt="LinkedIn" width="100" height="100"></a> </t>
-<a href="https://medium.com/@turi.vajk"><img src="https://github.com/VTuri/readme_template/blob/master/medium-icon.png" alt="Medium" width="100" height="100"></a>  
+  <a href="http://https://trello.com/"><img src="https://github.com/VTuri/readme_template/blob/master/trello-logo.png" alt="Trello" width="60" height="60"></a> </t>
+<a href="https://www.linkedin.com/in/vajkturi/"><img src="https://github.com/VTuri/readme_template/blob/master/linkedin-logo.png" alt="LinkedIn" width="60" height="60"></a> </t>
+<a href="https://medium.com/@turi.vajk"><img src="https://github.com/VTuri/readme_template/blob/master/medium-icon.png" alt="Medium" width="60" height="60"></a>  
  </t> </p>
 
 
