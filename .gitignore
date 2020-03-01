@@ -1,5 +1,6 @@
 .idea/
 venv/*
+env/*
 __pycache__/
 *.log
 ENV/
@@ -8,6 +9,15 @@ develop-eggs/
 dist/
 downloads/
 eggs/
+
+# Data files
+*.csv
+
+#Pickle files
+*.pkl
+
+# Images
+*.png
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
